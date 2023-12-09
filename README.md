@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://w0.peakpx.com/wallpaper/619/2/HD-wallpaper-android-robot-black-cyborg.jpg"  />
+<!--<img align="right" height="150" src="https://w0.peakpx.com/wallpaper/619/2/HD-wallpaper-android-robot-black-cyborg.jpg"  />-->
 
 ###
 
